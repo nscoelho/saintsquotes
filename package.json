@@ -1,7 +1,7 @@
 {
   "name": "gospelofthedayfrontend",
   "version": "0.1.0",
-  "homepage": "www.saintsquotes.org",
+  "homepage": "http://www.saintsquotes.org",
   "private": true,
   "engines": {
     "node": "15.4.0"
